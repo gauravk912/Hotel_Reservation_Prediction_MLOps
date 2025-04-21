@@ -3,3 +3,5 @@ mlruns/
 logs/
 my_package.egg-info/
 Private_data/
+.vscode/
+Dataset/
