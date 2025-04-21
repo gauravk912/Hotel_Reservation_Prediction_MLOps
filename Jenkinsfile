@@ -3,7 +3,7 @@ pipeline{
 
     environment {
         VENV_DIR = 'venv'
-        GCP_PROJECT = "mlops-new-447207"
+        GCP_PROJECT = "wise-scene-457321-m2"
         GCLOUD_PATH = "/var/jenkins_home/google-cloud-sdk/bin"
     }
 
